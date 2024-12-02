@@ -5,4 +5,7 @@ github is DVCS
 git bash commands
 aws is a cloud computing provider
 ec2 is a virtual server in the cloud
+<<<<<<< HEAD
 push/pull in git is good
+=======
+>>>>>>> 125067c (file created)
