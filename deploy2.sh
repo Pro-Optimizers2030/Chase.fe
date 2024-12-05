@@ -1,3 +1,3 @@
-Developpers, please know we are here to assist
+Developpers, please know we are here to assist you whenever needed
 git is a gift when it comes to distribution and data security 
 development must be reviewed by managers before deployment
